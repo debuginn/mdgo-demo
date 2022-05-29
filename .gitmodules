@@ -1,0 +1,3 @@
+[submodule "themes/mdgo"]
+	path = themes/mdgo
+	url = https://github.com/debuginn/mdgo.git
